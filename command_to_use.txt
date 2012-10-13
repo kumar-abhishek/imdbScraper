@@ -1,0 +1,1 @@
+scrapy  crawl  --set FEED_FORMAT=json --set FEED_URI=items.json imdb
